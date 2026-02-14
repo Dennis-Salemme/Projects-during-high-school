@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1681811549 source:z:\salemmed\sistemi 3d\seriale riceve trasmette\rs232.c
+	"rs232.h"
+
+1681811549 z:\salemmed\sistemi 3d\seriale riceve trasmette\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1685005416 source:z:\salemmed\sistemi 3d\seriale riceve trasmette\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"rs232.h"
+

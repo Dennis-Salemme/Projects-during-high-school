@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1676549747 source:c:\users\salem\desktop\codeblock file\putimagine\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1266090614 c:\users\salem\desktop\codeblocks f\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

@@ -1,0 +1,1 @@
+start bin/Debug/scacchi.exe

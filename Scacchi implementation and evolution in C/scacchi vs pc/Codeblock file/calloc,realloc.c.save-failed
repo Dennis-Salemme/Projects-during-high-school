@@ -1,0 +1,29 @@
+#include <string.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+
+int main(void)
+{
+    int *p;
+    int cnt;
+
+    p=(int *) malloc(10);  //Funziona come la malloc ma prima di dartelo lo azzera
+
+    for(cnt=0; cnt<10; cnt++)
+    {
+        p[cnt]=cnt;
+        printf("%d ", p[cnt]);
+    }
+
+    p=realloc(p,15);    //Modifica lo spazzio del puntatore
+
+    for(cnt=0; cnt<15; cnt++)
+    {
+        p[cnt]=cnt+2;
+        printf("%d ", p[cnt]);
+    }
+
+    free(p);
+}

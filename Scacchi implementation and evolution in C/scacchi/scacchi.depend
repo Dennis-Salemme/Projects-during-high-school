@@ -1,0 +1,352 @@
+# depslib dependency file v1.0
+1676106480 source:c:\temp\delete\prog\scacchi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1266094214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1676370088 source:c:\users\salem\desktop\scacchi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1266090614 c:\users\salem\desktop\codeblocks f\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1676370100 source:c:\users\salem\desktop\scacchi\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1687975102 source:c:\users\salem\desktop\codeblock file\scacchi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677023146 source:c:\users\salem\desktop\codeblock file\scacchi\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1676582162 source:c:\users\salem\desktop\codeblock file\scacchi\movimento delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142370 source:c:\users\salem\desktop\codeblock file\scacchi\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1266094214 c:\users\salem\desktop\codeblocks\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1676932207 source:c:\users\salem\desktop\codeblock file\scacchi\xypixell delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1676584690 source:f:\scacchi\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1676933150 source:f:\scacchi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1676977014 source:f:\scacchi\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142248 source:c:\users\salem\desktop\codeblock file\scacchi\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677153324 source:e:\scacchi-prova\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677019546 source:e:\scacchi-prova\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677153324 source:e:\scacchi-prova\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677154848 source:e:\scacchi-prova\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677152476 source:e:\scacchi-prova\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1680445641 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677023146 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681139067 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142057 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142247 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142247 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\movimenti.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677435344 source:e:\scacchi di salemme dennis in c\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677019546 source:e:\scacchi di salemme dennis in c\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678048956 source:e:\scacchi di salemme dennis in c\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678263146 source:e:\scacchi di salemme dennis in c\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677360724 source:e:\scacchi di salemme dennis in c\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678262846 source:e:\scacchi di salemme dennis in c\movimenti.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678316928 source:d:\scacchi di salemme dennis in c\movimenti.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677435344 source:d:\scacchi di salemme dennis in c\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677019546 source:d:\scacchi di salemme dennis in c\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678048956 source:d:\scacchi di salemme dennis in c\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678316718 source:d:\scacchi di salemme dennis in c\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677360724 source:d:\scacchi di salemme dennis in c\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1678633898 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\guardatuttepedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1680819705 source:c:\users\salem\desktop\codeblock file\scacchi di salemme dennis in c\guardotuttepedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142248 source:e:\scacchi\movimenti.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142370 source:e:\scacchi\scacchiera pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1677023146 source:e:\scacchi\tavola di scacchi.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1685617854 source:e:\scacchi\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1685617296 source:e:\scacchi\guardotuttepedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681142248 source:e:\scacchi\inserimento xy delle pedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1681722726 source:e:\scacchi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1687974636 source:c:\users\salem\desktop\codeblock file\scacchi\movimenti.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1687974636 source:c:\users\salem\desktop\codeblock file\scacchi\controllopedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1685617296 source:c:\users\salem\desktop\codeblock file\scacchi\guardotuttepedine.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
+1687974827 source:c:\users\salem\desktop\codeblock file\scacchi\promozioni.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<graphics.h>
+
